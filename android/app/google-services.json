@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676429635352",
+    "project_id": "codeyou-e43a7",
+    "storage_bucket": "codeyou-e43a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676429635352:android:0db56a8f8b620054f2486d",
+        "android_client_info": {
+          "package_name": "com.example.codeyou"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByozA7Bg12Ugyc-vLI1eugy-0iXODKExo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
